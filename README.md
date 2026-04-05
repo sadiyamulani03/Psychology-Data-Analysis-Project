@@ -2,7 +2,7 @@
 
 This project analyzes student performance data using Python and visualizes insights through multiple charts.
 
-## 🚀 Features
+## 🚀 Features:-
 - Data analysis using **pandas**
 - Data visualization using **matplotlib & seaborn**
 - No external dataset required (data stored inside code)
