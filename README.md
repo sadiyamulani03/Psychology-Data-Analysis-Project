@@ -26,6 +26,8 @@ This project analyzes student performance data using Python and visualizes insig
 ```bash
   pip install pandas matplotlib seaborn
   python psychology_project.py
+
+
 📂 Output
 
 The script generates the following charts:
