@@ -50,7 +50,7 @@ heatmap.png
 boxplot.png
 <img width="999" height="792" alt="Screenshot 2026-04-04 150148" src="https://github.com/user-attachments/assets/232b2540-4570-4d75-a0a6-4874bf9c083d" />
 
-💡 Key Insights
+💡 Key Insights:-
 Pass percentage shows steady improvement over years
 Some subjects have higher variance in performance
 Overall pass ratio is strong
